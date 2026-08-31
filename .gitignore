@@ -1,0 +1,21 @@
+# Power BI temporary files
+*.pbi
+*.pbit.lock
+*.pbix.lock
+
+# Power BI backup / temporary files
+~$*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
