@@ -224,7 +224,7 @@ Le rapport Power BI est organisé en trois pages principales.
 
 Vue synthétique permettant de suivre les principaux KPI et d'explorer l'attrition selon différentes dimensions.
 
-[Executive Overview](Screenshots/Executive_Overview.png)
+[Executive Overview](Screenshots/Executive_Overview.PNG)
 
 ---
 
@@ -239,7 +239,7 @@ Analyse approfondie du taux d'attrition selon notamment :
 - satisfaction ;
 - ancienneté.
 
-[Attrition Analysis](Screenshots/Attrition_Analysis.png)
+[Attrition Analysis](Screenshots/Attrition_Analysis.PNG)
 
 ---
 
@@ -247,7 +247,7 @@ Analyse approfondie du taux d'attrition selon notamment :
 
 Page dédiée à la synthèse des principaux enseignements de l'analyse et aux pistes d'action potentielles.
 
-[HR Insights](Screenshots/HR_Insights.png)
+[HR Insights](Screenshots/HR_Insights.PNG)
 
 ---
 
